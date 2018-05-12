@@ -1,0 +1,29 @@
+_repo: Voyage-of-the-Liberdade_18541
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Slocum, Joshua
+    birthdate: 1844
+    deathdate: 1909
+    gutenberg_agent_id: '1993'
+    url: http://www.gutenberg.org/2009/agents/1993
+    wikipedia: http://en.wikipedia.org/wiki/Joshua_Slocum
+description: ''
+gutenberg_issued: '2006-06-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18541'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages and travels'
+- !lcsh 'Liberdade (Ship)'
+- !lcc 'G'
+- !lcsh 'Slocum, Joshua, 1844- -- Travel'
+title: Voyage of the Liberdade
+url: http://www.gutenberg.org/ebooks/18541
